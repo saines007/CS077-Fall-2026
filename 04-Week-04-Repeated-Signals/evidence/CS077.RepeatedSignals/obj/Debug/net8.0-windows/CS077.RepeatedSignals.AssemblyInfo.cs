@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS077.RepeatedSignals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+358c6455441983a67ffe058b82dc17c1d20dbaef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+624f1c78e7da82cbea86adfcd5bc9f0425795c8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS077.RepeatedSignals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS077.RepeatedSignals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

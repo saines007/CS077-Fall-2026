@@ -5,12 +5,14 @@
  MinHeight="420" MinWidth="440">
     <ScrollViewer VerticalScrollBarVisibility="Auto">
         <StackPanel Margin="24">
-            <TextBlock Text="Short" FontSize="28"/>
+            <TextBlock Text="Ashwake receiver" FontSize="28"/>
             <TextBlock Text="Packets (separate with semicolons)" Margin="0,16,0,4"/>
             <TextBox x:Name="PacketInput" MaxLength="200"
-    Text="PING;PING;DISTRESS;STOP;PING"/>
+    Text="PING;PING;DISTESS;STOP;PING"/>
             <Button x:Name="ScanButton" Click="ScanButton_Click" Content="Scan batch"
     HorizontalAlignment="Left" Padding="18,8" Margin="0,12"/>
+            <Button Content="Reset receiver" Click="ResetButton_Click"
+ HorizontalAlignment="Left" Padding="18,8" Margin="0,0,0,12"/>
             <TextBlock x:Name="SignalOutput" Text="Ready."
     TextWrapping="Wrap" FontFamily="Consolas"/>
         </StackPanel>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\B217\\Downloads\\CS077.RepeatedSignals\\CS077.RepeatedSignals.csproj": {}
+    "C:\\Users\\B217\\source\\repos\\saines007\\CS077-Fall-2026\\04-Week-04-Repeated-Signals\\evidence\\CS077.RepeatedSignals\\CS077.RepeatedSignals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\B217\\Downloads\\CS077.RepeatedSignals\\CS077.RepeatedSignals.csproj": {
+    "C:\\Users\\B217\\source\\repos\\saines007\\CS077-Fall-2026\\04-Week-04-Repeated-Signals\\evidence\\CS077.RepeatedSignals\\CS077.RepeatedSignals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\B217\\Downloads\\CS077.RepeatedSignals\\CS077.RepeatedSignals.csproj",
+        "projectUniqueName": "C:\\Users\\B217\\source\\repos\\saines007\\CS077-Fall-2026\\04-Week-04-Repeated-Signals\\evidence\\CS077.RepeatedSignals\\CS077.RepeatedSignals.csproj",
         "projectName": "CS077.RepeatedSignals",
-        "projectPath": "C:\\Users\\B217\\Downloads\\CS077.RepeatedSignals\\CS077.RepeatedSignals.csproj",
+        "projectPath": "C:\\Users\\B217\\source\\repos\\saines007\\CS077-Fall-2026\\04-Week-04-Repeated-Signals\\evidence\\CS077.RepeatedSignals\\CS077.RepeatedSignals.csproj",
         "packagesPath": "C:\\Users\\B217\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\B217\\Downloads\\CS077.RepeatedSignals\\obj\\",
+        "outputPath": "C:\\Users\\B217\\source\\repos\\saines007\\CS077-Fall-2026\\04-Week-04-Repeated-Signals\\evidence\\CS077.RepeatedSignals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
