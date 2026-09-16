@@ -24,7 +24,12 @@ public partial class MainWindow : Window
         string log = "";
         for (int i = 0; i < packets.Length; i++)
         {
-            log += $"{i + 1}. {packets[i]}\n";
+            if (packets[i] == "STOP")
+            {
+                log += "STOP received.\n";
+                break;
+            }
+            log += $"{processed + 1}. {packets[i]}\n";
             processed++;
         }
         return log + $"Processed: {processed}";
